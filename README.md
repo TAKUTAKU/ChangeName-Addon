@@ -4,7 +4,7 @@
 # 使い方
 #### ベータAPIを有効にしてください<br>
 
-##①　一時的な変更
+## ①　一時的な変更
 
 ### 名札に「Nickname」という名前を付けます。 
 ![image](https://user-images.githubusercontent.com/72701532/198817497-5184846f-027d-4e36-92c0-249d219c4f0f.png)<br>
