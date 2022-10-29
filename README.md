@@ -8,8 +8,10 @@
 
 ### 名札に「Nickname」という名前を付けます。 
 ![image](https://user-images.githubusercontent.com/72701532/198817497-5184846f-027d-4e36-92c0-249d219c4f0f.png)<br>
-2回目は Tag 「ReLogin(1)」とつく<br>
-3回目以降 () 内の数が増える<br>
+### 右クリックで開く
+![image](https://user-images.githubusercontent.com/72701532/198819566-7ae34e85-a002-48b2-9614-066fa624323a.png)
+### 変えたい名前を書き、送信ボタンを押す。
+![image](https://user-images.githubusercontent.com/72701532/198819651-464e5c52-3a76-44fb-9bd6-24cc7fa6f633.png)
 
 初期化する場合Tag 「LoginReset」と付ければ<br>
 全てのログインTagが消される
